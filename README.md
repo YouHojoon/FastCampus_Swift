@@ -20,5 +20,21 @@
 <img width="331" alt="image" src="https://user-images.githubusercontent.com/53998480/129196983-77725117-18be-4303-8498-07909cd2ed57.png">
 </p>
 
+---
+
+## My Netflix App
+
+<p align="center">
+<img width="349" alt="image" src="https://user-images.githubusercontent.com/53998480/129456332-806261e9-748d-41dc-8a78-a2f743ad2049.png">
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/53998480/129456342-33cb7d52-2a18-44f0-9b0c-e3c9d956f6b5.png">
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/53998480/129456349-83a340ff-e8f7-4d26-adc9-f79e9d16fb04.png">
+<img width="726" alt="image" src="https://user-images.githubusercontent.com/53998480/129456453-e5d37971-e622-445d-ac95-5fab72f41106.png">
+</p>
 
 
+---
+
+## Full Screen Camera App
+<p align="center">
+<img width="335" alt="image" src="https://user-images.githubusercontent.com/53998480/129456429-89801559-ffb3-4e0e-815e-e6200f647548.png">
+</p>
